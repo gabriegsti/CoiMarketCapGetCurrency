@@ -1,0 +1,16 @@
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketCapGetCurrency\obj\Debug\net5.0\CoinMarketCapGetCurrency.csproj.AssemblyReference.cache
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketCapGetCurrency\obj\Debug\net5.0\CoinMarketCapGetCurrency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketCapGetCurrency\obj\Debug\net5.0\CoinMarketCapGetCurrency.AssemblyInfoInputs.cache
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketCapGetCurrency\obj\Debug\net5.0\CoinMarketCapGetCurrency.AssemblyInfo.cs
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketCapGetCurrency\obj\Debug\net5.0\CoinMarketCapGetCurrency.csproj.CoreCompileInputs.cache
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketCapGetCurrency\bin\Debug\net5.0\CoinMarketCapGetCurrency.exe
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketCapGetCurrency\bin\Debug\net5.0\CoinMarketCapGetCurrency.deps.json
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketCapGetCurrency\bin\Debug\net5.0\CoinMarketCapGetCurrency.runtimeconfig.json
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketCapGetCurrency\bin\Debug\net5.0\CoinMarketCapGetCurrency.runtimeconfig.dev.json
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketCapGetCurrency\bin\Debug\net5.0\CoinMarketCapGetCurrency.dll
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketCapGetCurrency\bin\Debug\net5.0\CoinMarketCapGetCurrency.pdb
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketCapGetCurrency\obj\Debug\net5.0\CoinMarketCapGetCurrency.dll
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketCapGetCurrency\obj\Debug\net5.0\refint\CoinMarketCapGetCurrency.dll
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketCapGetCurrency\obj\Debug\net5.0\CoinMarketCapGetCurrency.pdb
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketCapGetCurrency\obj\Debug\net5.0\CoinMarketCapGetCurrency.genruntimeconfig.cache
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketCapGetCurrency\obj\Debug\net5.0\ref\CoinMarketCapGetCurrency.dll
