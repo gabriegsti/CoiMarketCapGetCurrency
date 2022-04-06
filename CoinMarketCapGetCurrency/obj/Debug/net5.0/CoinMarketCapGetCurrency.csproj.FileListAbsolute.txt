@@ -14,3 +14,5 @@ C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketC
 C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketCapGetCurrency\obj\Debug\net5.0\CoinMarketCapGetCurrency.pdb
 C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketCapGetCurrency\obj\Debug\net5.0\CoinMarketCapGetCurrency.genruntimeconfig.cache
 C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketCapGetCurrency\obj\Debug\net5.0\ref\CoinMarketCapGetCurrency.dll
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketCapGetCurrency\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarketCapGetCurrency\CoinMarketCapGetCurrency\obj\Debug\net5.0\CoinMarketCapGetCurrency.csproj.CopyComplete

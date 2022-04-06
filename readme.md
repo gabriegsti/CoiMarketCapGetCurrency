@@ -1,0 +1,1 @@
+Here is a way to use api from CoinMarketCap, there is one get with the paremeters on the url, and other one that is with authentication on the headers

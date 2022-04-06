@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "t6NzPqD02dJoWnjPUwbdtAM3Gl19C+nGT/i+YsVM9XehTnmvdvfDFsgO7X0TEQHpHx7+Q/bZhXUI6wXzWUB9aQ==",
+  "dgSpecHash": "VUcl3cgRuv8ZvBZ9vhKPj7L1fjeiS3LqHfL5ATKuxvGwVfLcTJLZUeHbx/Hxbsbnw/rTA5Rrjhm+Du+tNK1nEg==",
   "success": true,
   "projectFilePath": "C:\\Users\\aluno06.TSACBRRJLP046\\source\\repos\\CoinMarketCapGetCurrency\\CoinMarketCapGetCurrency\\CoinMarketCapGetCurrency.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\aluno06.TSACBRRJLP046\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\aluno06.TSACBRRJLP046\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\aluno06.TSACBRRJLP046\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\aluno06.TSACBRRJLP046\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\aluno06.TSACBRRJLP046\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
